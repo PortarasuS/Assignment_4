@@ -36,7 +36,7 @@ class Umpire{
 		{	
 			count++;
 			System.out.println();
-			System.out.println("congratz! PLAYER - " + count +" , You won the MATCH");
+			System.out.println("Congratz! PLAYER - " + count +" , You won the MATCH");
 		}
 		else if (this.gusserInp > this.playerInp){
 			count++;
